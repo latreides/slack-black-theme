@@ -573,7 +573,7 @@ ts-message .reply_bar:hover {
 
 /* global (left sidebar) */
 
-#channel_scroll_down, #channel_scroll_up {
+#channel_scroll_down, #channel_scroll_up, .p-channel_sidebar {
    background-color: var(--background) !important;
    border: 0 1px 1px 1px solid var(--border-bright) !important;
 }
